@@ -1,1 +1,1 @@
-Data for python notebooks
+Datasets for data visualization course
