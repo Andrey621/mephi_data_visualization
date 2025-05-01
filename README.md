@@ -1,1 +1,1 @@
-# mephi_data_visualization
+# Datasets for MEPHI courses
